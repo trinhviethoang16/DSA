@@ -1,0 +1,18 @@
+Đề bài: Sử dụng thuật toán tìm kiếm Binary Search để tìm vị trí của một phần tử trong mảng tăng dần.
+
+Đầu vào: (Các số trên cùng một dòng cách nhau 1 SPACE)
+- Dòng đầu tiên: số nguyên dương n và giá trị X cần tìm.
+- Dòng thứ hai: mảng n số nguyên tăng dần.
+
+Đàu ra:
+- Dòng đầu tiên: số lần so sánh giữa các phần tử trong mảng với giá trị X.
+- Dòng thứ hai: vị trí của giá trị X được tìm thấy trong mảng; và in ra -1 nếu không tìm thấy giá trị X.
+
+Ví dụ:
+- input:
+10 15
+2 5 8 10 12 13 15 18 21 24
+
+- output:
+4
+6

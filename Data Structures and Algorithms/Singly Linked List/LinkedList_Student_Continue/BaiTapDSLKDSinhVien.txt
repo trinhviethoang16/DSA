@@ -1,0 +1,21 @@
+Khai báo cấu trúc Danh Sách Liên Kết Đơn quản lý sinh viên như sau:
+Định dạng trong file SinhVien.txt như sau:
+- Dòng đầu tiên là thông tin của 1 sinh viên:
++ Họ tên
++ Mã sinh viên
++ Ngày tháng năm sinh: chuỗi string định dạng dd/mm/yyyy
++ Điểm trung bình
+
+VD: SinhVien.txt
+Nguyen Van A,N15DCCN165,09/06/1997,7.5
+Nguyen Van B,N15DCCN166,09/06/1998,5.5
+Nguyen Van C,N15DCCN167,09/06/1999,8.0
+Nguyen Van D,N15DCCN168,09/06/2000,10.0
+Nguyen Van E,N15DCCN169,09/06/2001,9.3
+
+Yêu cầu:
+1. Đọc dữ liệu từ file SinhVien.txt và xuất ra màn hình thông tin toàn bộ sinh viên
+2. Sắp xếp danh sách sinh viên tăng dần theo điểm trung bình và ghi vào file ScoreSort.txt
+3. In danh sách sinh viên có điểm trung bình cao nhất vào file HighestScore.txt
+3. Tìm kiếm thông tin sinh viên dựa vào điểm trung bình sinh viên
+4. Tìm kiếm thông tin sinh viên dựa vào tên sinh viên

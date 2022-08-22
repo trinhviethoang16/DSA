@@ -1,0 +1,2 @@
+Max number in the linked list: 91
+Min number in the linked list: 9

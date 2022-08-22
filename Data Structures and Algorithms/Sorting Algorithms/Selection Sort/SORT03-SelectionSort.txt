@@ -1,0 +1,17 @@
+Đề bài: sử dụng thuật toán sắp xếp Selection Sort để sắp xếp mảng tăng dần.
+
+Đầu vào: (các số trên cùng một dòng cách nhau 1 SPACE)
+- Dòng đầu tiên: số nguyên dương n.
+- Dòng thứ hai: mảng n số nguyên.
+
+Đầu ra: (các số trên cùng một dòng cách nhau 1 SPACE)
+- Dòng đầu tiên: số lần so sánh (compare) và số lần hoán vị (swap) hai phần tử của mảng trong quá trình sắp xếp.
+- Dòng thứ hai: mảng n số nguyên tăng dần.
+
+Ví dụ:
+- input:
+8
+12 2 8 5 1 6 4 15
+- output:
+28 4
+1 2 4 5 6 8 12 15

@@ -1,0 +1,10 @@
+Bài tập sử dụng danh sách liên kết đơn + kiến thức về File
+Mở file Number.txt:
+- Dòng đầu tiên là tổng số lượng số nguyên có trong danh sách
+- Dòng thứ hai là lần lượt các số nguyên
+
+Yêu cầu:
+1. Mở file và thêm các số nguyên trong file vào danh sách liên kết đơn được quản lý bởi 1 con trỏ
+2. In tất cả các số nguyên ra màn hình
+2. Sắp xếp tăng dần và giảm dần dãy số nguyên vào một file mới có tên SapXepTangDan.txt và SapXepGiamDan.txt
+3. Tìm và in số bé nhất và nhỏ nhất trong danh sách vào file có tên MaxMin.txt

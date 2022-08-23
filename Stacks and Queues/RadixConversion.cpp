@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-/*Cconvert 10 -> 2-8-16 using stack */
+/*Convert 10 -> 2-8-16 using stack */
 
 struct node
 {
